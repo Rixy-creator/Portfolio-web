@@ -314,7 +314,7 @@ h3 { font-size: 1.25rem; }
   width: 100%;
   height: auto;
   image-rendering: pixelated;
-  margin-bottom: 1rem;
+  margin: 0.75rem auto 1rem;
 }
 
 .project-card h3 {
